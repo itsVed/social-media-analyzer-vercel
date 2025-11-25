@@ -85,10 +85,6 @@ function App() {
           <ResultPanel text={extractedText} ai={ai} loading={loading} />
         </section>
       </main>
-
-      <footer className="app-footer">
-        <p>Built for a technical assessment — replace with your name & company.</p>
-      </footer>
     </div>
   );
 }
